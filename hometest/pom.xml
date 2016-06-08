@@ -18,8 +18,17 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.1</version>
+      <version>4.12</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <modules>
+  	<module>contract</module>
+  	<module>view</module>
+  	<module>model</module>
+  	<module>controller</module>
+  	<module>main</module>
+  </modules>
+  
+  
 </project>
