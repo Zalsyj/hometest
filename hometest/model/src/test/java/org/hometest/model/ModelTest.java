@@ -17,4 +17,11 @@ public class ModelTest {
 	public void testGetHelloWorld() {
 		Assert.assertEquals("Hello World", this.model.getHelloWorld());		
 	}
+	
+	@Test
+	public void testDummy() {
+		Assert.assertEquals(true, true);		
+	}
 }
+
+
