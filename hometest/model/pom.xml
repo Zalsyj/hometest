@@ -9,7 +9,6 @@
   </parent>
   <groupId>org.hometest.model</groupId>
   <artifactId>model</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <name>model</name>
   <url>http://maven.apache.org</url>
   <properties>

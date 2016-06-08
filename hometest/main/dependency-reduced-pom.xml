@@ -6,10 +6,9 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.hometest</groupId>
+  <groupId>org.hometest.main</groupId>
   <artifactId>main</artifactId>
   <name>main</name>
-  <version>0.0.1-SNAPSHOT</version>
   <url>http://maven.apache.org</url>
   <build>
     <plugins>
